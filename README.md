@@ -3,6 +3,31 @@
 This guide provides a robust, step-by-step process for setting up the ROS 2 Jazzy simulation environment for the OpenManipulator-X robot, resolving common dependency and container-sourcing issues encountered during compilation and launch.  
 
 
+
+perlin version --
+  pehle to
+  source install/setup.bash (inside the workspace)
+ros2 launch open_manipulator_moveit_config open_manipulator_x_moveit.launch.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Setup Steps
 
 1. Clone the Repository and Workspace
